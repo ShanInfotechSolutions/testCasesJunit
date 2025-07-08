@@ -7,6 +7,6 @@ public class Calculate {
 	}
 	
 	public int areaOfCircle(int r) {
-	return (int)3.14*r*r;	
+	return (int)(3.14*r*r);	
 	}
 }
