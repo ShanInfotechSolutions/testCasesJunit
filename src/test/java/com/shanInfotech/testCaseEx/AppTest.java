@@ -18,7 +18,7 @@ public class AppTest {
 	public void testArea() {
 		Calculate c=new Calculate();
 		assertEquals(12,c.areaOfCircle(2));
-		assertEquals(28,c.areaOfCircle(3));
+		assertEquals(28,c.areaOfCircle(3));//3*3*3.14
 		}
     
 }
